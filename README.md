@@ -1,5 +1,8 @@
 ## Trello-Test-API ##
 
+<img width="294" alt="Trello-icon-blue@2x" src="https://github.com/PaulaHum/Trello-Test-API/assets/156292388/b527b9b4-1cd7-401f-b87f-a7b2755ca54a">
+
+
 ## 👋 Description:
 
 This repository consist of the Postman collection created based on the Atlassian Trello Developer platform. 
